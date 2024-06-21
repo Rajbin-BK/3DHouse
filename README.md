@@ -28,7 +28,7 @@ Setup Instructions
   Clone this repository to your local machine using:
 
     bash
-    git clone https://github.com/your-username/your-repo.git
+    git clone https://github.com/Rajbin-BK/3DHouse.git
   Run Locally: Open the project directory and start a local server. If using WAMP, copy the project into your www directory and access it via localhost.
   Browser Compatibility: Make sure your browser supports WebGL for Three.js to work properly.
 
